@@ -39,6 +39,14 @@ Did you enable kits? Double check if your IAP, Ads, Account and Game Service kit
 
 <img src="https://user-images.githubusercontent.com/39373386/198297979-535ab2a4-f777-4ac7-bbbc-ebdb922cef4c.png" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="650" height="400" />
 
+# Scene Overviews
+
+<img src="https://user-images.githubusercontent.com/39373386/198301153-7bb63282-d6e4-42c1-a315-cd00fc44dc48.jpg" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="325" height="400" /> <img src="https://user-images.githubusercontent.com/39373386/198301186-17a3c339-b76e-4151-a8a4-3f90326be3b6.jpg" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="325" height="400" />
+
+# Used Assets
+
+![Free Platform Game Assets](https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838)
+
 Is there any problem? ![FAQ](https://evilminddevs.gitbook.io/hms-unity-plugin/support/faq)
 
 Thank you for your interest in our project. You may give us a star to support us and follow up on the ![project](https://github.com/EvilMindDevs/hms-unity-plugin). 
