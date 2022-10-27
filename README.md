@@ -1,4 +1,4 @@
-# Huawei Mobile Services Demo Project for Unity
+# Huawei Mobile Services Reference Demo Project for Unity
 
 This project has been prepared for you to be an example during the junction and to build your own project on it. This project includes, In-App Purchases, Ads kit, Account kit and Game service. For other kits, you can use the demo scenes in the plugin as an example.
 
