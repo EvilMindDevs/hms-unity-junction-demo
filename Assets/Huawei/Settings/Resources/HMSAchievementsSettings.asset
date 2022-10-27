@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7670dcedaa35dad46bcf6c7687c52728, type: 3}
+  m_Name: HMSAchievementsSettings
+  m_EditorClassIdentifier: 
+  settings:
+    _keys:
+    - 7F62FB31D2120F052BF11578E2F59EBA517CF6CD065A9D3CC250A877E77EAD5E
+    - 2D0EB402978EC83758F08B18083C3C9948F2605BBCF265585540AB32C5E82C2E
+    - BD16813CA8D537F6459E6DD3F6C0BA43E384737B4F4EBE8C33B031AD722DE2CF
+    _values:
+    - FirstCoin
+    - nineLives
+    - allCompleted
