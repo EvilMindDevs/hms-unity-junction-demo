@@ -1,16 +1,10 @@
-# Unity Reference Game with Huawei Mobile Services Plugin for Junction
+# Huawei Mobile Services Demo Project for Unity
 
-## Overview
-kits used in this demo:
-* In-App-Purchases
-* Ads kit
-* Account Kit
-* Game Service
+This project has been prepared for you to be an example during the junction and to build your own project on it. This project includes, In-App Purchases, Ads kit, Account kit and Game service. For other kits, you can use the demo scenes in the plugin as an example.
 
-# Project Setup
+Before using this project as a template, you need to make some adjustments. You can refer to the ![Quick Start](https://evilminddevs.gitbook.io/hms-unity-plugin/getting-started/quick-start) for the first steps.
 
-## HMS Unity Plugin Integration 
-Please refer to ![Quick Start](https://evilminddevs.gitbook.io/hms-unity-plugin/getting-started/quick-start) for first steps. Then follow the below topics.
+When the quick start parts are finished, you need to create and adjust the IAP products, achievements and leaderboard for the use of the project.
 
 ## Achievements & LeaderBoards 
 <img src="https://user-images.githubusercontent.com/39373386/198292902-038dc133-f8a3-4d28-9805-b1b0627c0c93.jpg" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="600" height="250" />
@@ -25,7 +19,7 @@ create a Leaderboard named 'LeaderBoard'.
 
 Then edit Unity>Huawei>KitSettings>GameService and click create constants buttons.
 
-# IAP
+## IAP
 
 Create IAP products with product ID NoAds, Premium, 100Coin.    
 
@@ -33,17 +27,17 @@ Create IAP products with product ID NoAds, Premium, 100Coin.
 
 Now you can test this demo.
 
-# Reminder
+## Reminder
 
 Did you enable kits? Double check if your IAP, Ads, Account and Game Service kits are enabled.
 
 <img src="https://user-images.githubusercontent.com/39373386/198297979-535ab2a4-f777-4ac7-bbbc-ebdb922cef4c.png" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="650" height="400" />
 
-# Scene Overviews
+## Scene Overviews
 
 <img src="https://user-images.githubusercontent.com/39373386/198301153-7bb63282-d6e4-42c1-a315-cd00fc44dc48.jpg" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="325" height="400" /> <img src="https://user-images.githubusercontent.com/39373386/198301186-17a3c339-b76e-4151-a8a4-3f90326be3b6.jpg" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="325" height="400" />
 
-# Used Assets
+## Used Assets
 
 ![Free Platform Game Assets](https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838)
 
